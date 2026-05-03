@@ -11,7 +11,7 @@ Studying for OSAI+ , OSCP Later on this Year
 # Andrea Guida
 **Offensive Security Specialist**
 
-📍 Milano | 📞 +39 333 969 7566 | ✉️ andreaguida120@gmail.com | 🔗 [LinkedIn](http://linkedin.com/in/andreguida)
+📍 Milano| 🔗 [LinkedIn](http://linkedin.com/in/andreguida)
 
 ---
 
