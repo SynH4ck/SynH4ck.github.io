@@ -23,6 +23,8 @@ Interfaccia tra il team tecnico e i clienti per la pianificazione, il delivery e
 
 ---
 
+## Esperienza Lavorativa
+
 ### Offensive Security Consultant — VLAP
 **Neverhack Italy Spa | Assago (MI) — Hybrid**
 `07/2025 — Presente`
@@ -33,7 +35,6 @@ Interfaccia tra il team tecnico e i clienti per la pianificazione, il delivery e
 
 ---
 
-## Esperienza Lavorativa
 
 ### Offensive Security Service Manager
 **Hacktive Security | Remote**
