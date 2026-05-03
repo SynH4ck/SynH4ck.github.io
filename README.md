@@ -41,7 +41,6 @@ Interfaccia tra il team tecnico e i clienti per la pianificazione, il delivery e
 
 - Gestione e coordinamento dei servizi di offensive security erogati verso i clienti.
 - Supervisione delle attività di penetration testing e supporto nella definizione dello scope e degli obiettivi degli engagement.
-- 
 
 ---
 
